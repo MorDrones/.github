@@ -1,6 +1,5 @@
 # Mordrones
-
-[![Mordrones Logo](link-to-logo.png)](https://mordrones.co.il)
+<a href="https://mordrones.com"><img src="logo.png" alt="Mordrones Logo" width="200"/>
 
 Welcome to the official GitHub of **Mordrones**!
 
